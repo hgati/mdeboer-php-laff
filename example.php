@@ -1,7 +1,5 @@
 <?php
 
-require_once("../laff-pack.php");
-
 // Define our boxes
 $boxes = array(
 	array(
@@ -31,8 +29,8 @@ $boxes = array(
 	),
 );
 
-// Initialize LAFFPack
-$lp = new LAFFPack();
+// Initialize LaffPack
+$lp = new LaffPack();
 
 // Start packing our nice boxes
 $lp->pack($boxes);

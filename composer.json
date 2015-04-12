@@ -1,5 +1,6 @@
 {
 	"name": "hgati/laff-pack",
+	
 	"autoload": {
 		"psr-4": {
 			"Hgati\\": "src/"
