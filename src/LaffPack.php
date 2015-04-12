@@ -1,4 +1,6 @@
 <?php
+namespace Hgati;
+
 /**
  * Largest Area Fit First (LAFF) 3D box packing algorithm class
  *
