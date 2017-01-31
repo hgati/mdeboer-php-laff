@@ -1,5 +1,5 @@
 {
-	"name": "hgati/laff-pack",
+	"name": "hgati/php-laff",
 	
 	"autoload": {
 		"psr-4": {
