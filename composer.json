@@ -1,5 +1,5 @@
 {
-	"name": "hgati/php-laff",
+	"name": "hgati/mdeboer-php-laff",
 	
 	"autoload": {
 		"psr-4": {
